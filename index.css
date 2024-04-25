@@ -24,3 +24,10 @@ img {
   border-radius: 8px;
 }
 
+body {
+    background-image: url('mallesh4.jpeg');
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-position: center; /* Centers the background image */
+    /* You can also add additional background properties like background-color or background-repeat if needed */
+}
+body {
